@@ -3,7 +3,6 @@
 1. Get the top continet in the youtube space interms of; 
     - uploads
     - views
-    - views
     - earnings
     - subs
 
