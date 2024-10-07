@@ -8,4 +8,4 @@
 
 2. Percentage pay per continent.
 3. Top 8 countries , pct pay.
-4. Top 8 channel types, pct views.
+4. Top 8 channel types, count views.
