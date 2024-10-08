@@ -56,5 +56,7 @@ A SQL client capable of running complex queries. For this project, I used MySQL 
 
 ## Visualization
 Power BI was the tool I chose to visualize the analysis above. Below is the dashboard created
+
+
 ![image](https://github.com/user-attachments/assets/f03c7c7e-0901-4025-8f48-cacab2dcf388)
 
