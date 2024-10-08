@@ -1,4 +1,4 @@
-# youtube-data-analysis
+# Youtube-data-analysis
 
 ## Overview
 This project analyzes YouTube statistics globally, focusing on key metrics across continents and countries. The goal is to summarize data regarding uploads, views, earnings, and subscriber counts for various geographic regions, and to determine the percentage of earnings by continent and by country. The data used for this project was sourced from a Kaggle dataset, which can be found [here](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
