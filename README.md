@@ -28,7 +28,7 @@ This part of the SQL query aggregates YouTube statistics by continent, providing
 ### Percentage of Earnings by Continent
 This section calculates the percentage of total earnings by continent, allowing for an understanding of how each region contributes to global revenue.
 1. A Common Table Expression (CTE) named pct_pay is created to calculate the total earnings per continent.
-2. The main query then uses this CTE to calculate the percentage of total earnings for each continent.
+2. The main query then uses this CTE to calculate each continent's total earnings percentage.
 
 ### Top 8 Countries by Earnings
 This query retrieves the top 8 countries based on their YouTube earnings, providing insights into where the highest revenue-generating channels are located.
@@ -47,7 +47,7 @@ This query retrieves the top 8 countries based on their YouTube earnings, provid
 This query identifies the top 8 channel types based on video views, providing an understanding of which content categories are the most popular.
 
 ## Prerequisites
-A SQL client capable of running complex queries. For this project I used MySQL Workbench 8.0 CE
+A SQL client capable of running complex queries. For this project, I used MySQL Workbench 8.0 CE
 
 ## Usage
 1. Connect to your SQL database.
@@ -55,6 +55,6 @@ A SQL client capable of running complex queries. For this project I used MySQL W
 3. Execute the query to view the results.
 
 ## Visualization
-Power BI was the tool I choose for visualizing the analysis above. Below is the dashboard created
+Power BI was the tool I chose to visualize the analysis above. Below is the dashboard created
 ![image](https://github.com/user-attachments/assets/f03c7c7e-0901-4025-8f48-cacab2dcf388)
 
