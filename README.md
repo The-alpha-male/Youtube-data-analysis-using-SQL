@@ -20,7 +20,7 @@ This part of the SQL query aggregates YouTube statistics by continent, providing
 
 `continents`: Categorizes countries based on geographical regions.
 `total_subs`: Total number of subscribers across all YouTubers in a continent.
-`total_uploads`: Total number of videos uploaded by YouTubers in a continent.
+`total_uploads`: Total number of videos YouTubers upload in a continent.
 `total_views`: Total video views for all YouTubers in a continent.
 `yearly_total_earnings`: Total estimated yearly earnings (rounded) for YouTubers in a continent.
 `num_of_youtubers`: Total number of YouTubers in a continent.
@@ -55,7 +55,7 @@ A SQL client capable of running complex queries. For this project, I used MySQL 
 3. Execute the query to view the results.
 
 ## Visualization
-Power BI was the tool I chose to visualize the analysis above. Below is the dashboard created
+I used Power BI to visualize the analysis above, resulting in the dashboard shown below.
 
 
 ![image](https://github.com/user-attachments/assets/f03c7c7e-0901-4025-8f48-cacab2dcf388)
